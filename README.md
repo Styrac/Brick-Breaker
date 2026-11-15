@@ -1,0 +1,1 @@
+I created a Brick Breaker game, where your goal is to use the paddle to direct the ball to break the bricks. You get +100 score for breaking each brick, and you must get the highest score possible. If your ball falls, it's game over.
